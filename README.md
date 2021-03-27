@@ -1,7 +1,8 @@
 # WebScraping
 
 Link curso: https://t.me/joinchat/Wc_vJtHIdKoyZTcx
-Link código: Python - Material de Apoio
+
+Link "Python - Material de Apoio": https://colab.research.google.com/gist/yurikfernandes/661678bcd66969c301dd289353f515a7/material-de-apoio-python.ipynb
 
 | Blocos        |   Yuri   |  Junior  |
 |---------------|----------|----------|
