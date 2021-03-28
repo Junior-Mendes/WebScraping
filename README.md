@@ -6,7 +6,7 @@ Link "Python - Material de Apoio": https://colab.research.google.com/gist/yurikf
 
 | Blocos        |   Yuri   |  Junior  |
 |---------------|----------|----------|
-| Bloco 1 - Python      | `Finished`  | `loading` |
+| Bloco 1 - Python      | `Finished`  | `Finished` |
 | Bloco 2       | `loading`  | `loading` |
 | Bloco 3       | `loading`  | `loading` |
 | Bloco 4       | `loading`  | `loading` |
