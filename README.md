@@ -2,7 +2,7 @@
 
 Link curso: https://t.me/joinchat/Wc_vJtHIdKoyZTcx
 
-Link "Python - Material de Apoio": https://colab.research.google.com/github/Junior-Mendes/WebScraping/blob/main/Material_de_apoio_Python.ipynb
+Link "Python - Material de Apoio": https://colab.research.google.com/drive/1pGgEZnaDL5KDkZOO-0SL_rquys0e7sjq?usp=sharing
 
 | Blocos        |   Yuri   |  Junior  |
 |---------------|----------|----------|
